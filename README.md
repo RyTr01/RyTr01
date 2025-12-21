@@ -71,4 +71,8 @@
 
 ------
 
+## 🚀 Projects
+
+![QEMUQS](https://github.com/RyTr01/QEMUQS)
+
 Template Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
