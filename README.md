@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RyTr01/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/RyTr01/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=RyTr01"></a>
 </p>
 
 ---
@@ -49,16 +49,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=RyTr01&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
- 
  ### 💳 Github Profile Summary Card
  
  <div align=center>
