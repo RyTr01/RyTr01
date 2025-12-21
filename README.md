@@ -43,7 +43,7 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff)
-![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)
+![GNU](https://img.shields.io/badge/GNU-000000?style-for-the-badge&logo=gnu&logoColor=white)
 
 ## 📚 LEARNING
 
@@ -75,7 +75,9 @@
 
 ## 🚀 Projects
 
-<a href = "https://www.github.com/RyTr01/QEMUQS> QEMUQS </a>
+- 🔧 **[QEMUQS](https://github.com/RyTr01/QEMUQS)**  
+  CLI tool for managing QEMU virtual machines (C++)
+
 
 <b> Feel free to check my repositories — most of my work focuses on Linux and sometimes on Windows, virtualization and low-level experimentation. </b>
 
