@@ -75,7 +75,7 @@
 
 ## 🚀 Projects
 
-![QEMUQS](https://github.com/RyTr01/QEMUQS)
+<a href = "https://www.github.com/RyTr01/QEMUQS> QEMUQS </a>
 
 <b> Feel free to check my repositories — most of my work focuses on Linux and sometimes on Windows, virtualization and low-level experimentation. </b>
 
