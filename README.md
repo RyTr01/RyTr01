@@ -18,7 +18,7 @@
 ---
 
 - 👨‍💻 I'm a developer learning cybersecurity.
-- 💬 Ask me about my experience with QEMU, Linux, VBox or VmWare.
+- 💬 I enjoy working with QEMU, Linux and virtualization tools.
 - 🌱 I’m diving deeper into _[GNU](https://www.gnu.org/home.en.html)_ and _[Virtualization](https://www.ibm.com/think/topics/virtualization/)_
 
 ## 🛠 &nbsp;Tech Stack
@@ -47,7 +47,9 @@
 
 ## 📚 LEARNING
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+* Docker
+* Networking
+* Bash
 
  ### 💳 Github Profile Summary Card
  
@@ -75,4 +77,7 @@
 
 ![QEMUQS](https://github.com/RyTr01/QEMUQS)
 
+<b> Feel free to check my repositories — most of my work focuses on Linux and sometimes on Windows, virtualization and low-level experimentation. </b>
+
 Template Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
+
