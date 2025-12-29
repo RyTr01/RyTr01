@@ -25,7 +25,7 @@
 
 ### ❗SOCIAL
 
-- ![CyberDefenders](https://cyberdefenders.org/p/RyTro)
+- !CyberDefenders(https://cyberdefenders.org/p/RyTro)
 
 #### 🔧 Languages
 
