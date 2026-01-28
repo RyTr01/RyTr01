@@ -18,7 +18,7 @@
 ---
 
 - 👨‍💻 I'm a developer learning cybersecurity.
-- 💬 I enjoy working with QEMU, Linux and virtualization tools.
+- 💬 I enjoy working with Linux and CyberSecurity tools.
 - 🌱 I’m diving deeper into _[GNU](https://www.gnu.org/home.en.html)_ and _[Virtualization](https://www.ibm.com/think/topics/virtualization/)_
 
 ## 🛠 &nbsp;Tech Stack
@@ -52,9 +52,9 @@
 
 ## 📚 LEARNING
 
-* Docker
 * Networking
 * Bash
+* Operative Systems
 
  ### 💳 Github Profile Summary Card
  
